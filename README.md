@@ -1,4 +1,4 @@
 ## Installation
 
-brew tap <your-org>/grawl
-brew install grawl
+-brew tap grawl-dev/grawl
+-brew install grawl
